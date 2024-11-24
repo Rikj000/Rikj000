@@ -61,8 +61,6 @@ These are my personal forks of open source projects.
 I worked on these in the past to either implement PRs or implement personal changes.   
 However I do not actively maintain them.
 
- <a href="https://github.com/Rikj000/MoniGoMani/releases/latest"><img src="https://img.shields.io/github/v/release/Rikj000/MoniGoMani?include_prereleases&label=%20"></a> |
-
 | Name | Description | Archived | Stars |
 | ---- | ----------- | :------: | :---: |
 | <a href="https://github.com/Rikj000/AndroidAuto4MicroG"><img src="https://img.shields.io/badge/AndroidAuto4MicroG-gray?logo=github&logoColor=white"/></a> | Android Auto for MicroG | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/AndroidAuto4MicroG?style=flat&label=%20"> |
