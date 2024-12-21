@@ -8,6 +8,19 @@ then you can program in any language!
 
 ---
 
+## Git Code Forges
+<p align="left">
+    <a href="https://codeberg.org/Rikj000">
+        <img src="https://img.shields.io/badge/Codeberg-000000?logo=codeberg&logoColor=white" alt="My Codeberg profile">
+    </a> <a href="https://github.com/Rikj000">
+        <img src="https://img.shields.io/badge/Github-000000?logo=github&logoColor=gray" alt="My Github profile">
+    </a> <a href="https://gitlab.com/Rikj000">
+        <img src="https://img.shields.io/badge/Gitlab-000000?logo=gitlab&logoColor=orange" alt="My Gitlab profile">
+    </a> <a href="https://gitdab.com/Rikj000">
+        <img src="https://img.shields.io/badge/Gitdab-000000?logo=forgejo&logoColor=pink" alt="My Gitdab profile">
+    </a>
+</p>
+
 ## Sponsorship
 
 <p align="left">
