@@ -87,6 +87,7 @@ However I do not actively maintain them.
 | [`Laravel-Tracing`](https://github.com/Rikj000/Laravel-Tracing) | Distributed tracing (OpenTracing) for Laravel made easy | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/Laravel-Tracing?style=flat&label=%20"> |
 | [`Ledokku`](https://github.com/Rikj000/Ledokku) | The beautiful web UI for all things Dokku | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/Ledokku?style=flat&label=%20"> |
 | [`Palworld-ModConfig-DevHelp`](https://github.com/Rikj000/Palworld-ModConfig-DevHelp) | A help guide for mod developers,<br>so that they may make their mods compatible with the mod config menu interface. | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/Palworld-ModConfig-DevHelp?style=flat&label=%20"> |
+| [`RPi-WS281x`](https://github.com/Rikj000/RPi-WS281x) | Userspace Raspberry Pi PWM library for WS281X LEDs. | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/RPi-WS281x?style=flat&label=%20"> |
 | [`Scoop-Versions-Bucket`](https://github.com/Rikj000/Scoop-Versions-Bucket) | Scoop bucket for alternative versions of apps. | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/Scoop-Versions-Bucket?style=flat&label=%20"> |
 | [`SnappyWinscard`](https://github.com/Rikj000/SnappyWinscard) | A .NET interface for smart card readers like ACS ACR122U | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/SnappyWinscard?style=flat&label=%20"> |
 
