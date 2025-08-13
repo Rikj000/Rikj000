@@ -79,6 +79,7 @@ However I do not actively maintain them.
 | ---- | ----------- | :------: | :---: |
 | [`AndroidAuto4MicroG`](https://github.com/Rikj000/AndroidAuto4MicroG) | Android Auto for MicroG | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/AndroidAuto4MicroG?style=flat&label=%20"> |
 | [`CashCode`](https://github.com/Rikj000/CashCode) | .NET dll library (assembly) for working with CashCode bill validators over BILL VALIDATOR Communication Specification | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/CashCode?style=flat&label=%20"> |
+| [`DietPi-Image-Customizer`](https://github.com/Rikj000/DietPi-Image-Customizer) | Customize your DietPi image by enriching it with your own dietpi.txt and dietpi-wifi.txt making flashing straight forward  | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/DietPi-Image-Customizer?style=flat&label=%20"> |
 | [`FreqTrade`](https://github.com/Rikj000/FreqTrade) | Open source crypto trading bot, FreqTrade | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/Freqtrade?style=flat&label=%20"> |
 | [`KingInstaller`](https://github.com/Rikj000/KingInstaller) | Install packages "as Google Play Store" | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/KingInstaller?style=flat&label=%20"> |
 | [`Laravel-EnvEditor`](https://github.com/Rikj000/Laravel-EnvEditor) | Another approach for .env editing (With UI included) | ✖️ | <img src="https://img.shields.io/github/stars/Rikj000/Laravel-EnvEditor?style=flat&label=%20"> |
